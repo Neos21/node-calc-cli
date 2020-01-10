@@ -1,0 +1,29 @@
+{
+  "name": "@neos21/calc-cli",
+  "version": "0.0.0",
+  "description": "CLI Calculator",
+  "main": "index.js",
+  "bin": {
+    "calc": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/node-calc-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/node-calc-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/node-calc-cli/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
+  "dependencies": {
+    "mathjs": "6.5.0"
+  }
+}
