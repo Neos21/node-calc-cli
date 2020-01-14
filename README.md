@@ -12,6 +12,9 @@ $ npm install -g @neos21/calc-cli
 
 $ calc '80.7 - 10.1'
 # --> 70.6
+
+# Alias
+$ ncalc '80.7 - 10.1'
 ```
 
 
