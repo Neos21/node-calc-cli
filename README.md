@@ -20,7 +20,7 @@ $ ncalc '80.7 - 10.1'
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - node-calc-cli](https://github.com/Neos21/node-calc-cli)
 - [npm - @neos21/calc-cli](https://www.npmjs.com/package/@neos21/calc-cli)
