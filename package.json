@@ -1,6 +1,6 @@
 {
   "name": "@neos21/calc-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI Calculator",
   "main": "index.js",
   "bin": {

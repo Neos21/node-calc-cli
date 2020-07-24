@@ -1,6 +1,6 @@
 # node-calc-cli : @neos21/calc-cli
 
-[![NPM Version](https://img.shields.io/npm/v/@neos21/calc-cli.svg)](https://www.npmjs.com/package/@neos21/calc-cli)
+[![NPM Version](https://img.shields.io/npm/v/@neos21/calc-cli.svg)](https://www.npmjs.com/package/@neos21/calc-cli) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/node-calc-cli?label=github)](https://github.com/Neos21/node-calc-cli/packages/328038)
 
 CLI Calculator.
 
